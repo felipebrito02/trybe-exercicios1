@@ -1,10 +1,10 @@
 # Trybe - Exercícios
 
-Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/felipebrito02/)__ durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
+Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/felipebrito02/)__ durante minha tragetória na [Trybe](https://www.betrybe.com/) 
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand: 
+## Fundamentos do Desenvolvimento Web  
 
 ##### Seção 1: [Unix, Shell e Git]
 - [ ] 1.1 - Introdução à Unix & Shell 
@@ -235,4 +235,4 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 38.3 - Pilhas
 - [ ] 38.4 - Projeto - TING - Trybe Is Not Google
 
-...
+....
