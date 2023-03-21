@@ -6,7 +6,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Fundamentos do Desenvolvimento Web  
 
-##### Seção 1: [Unix, Shell e Git] (https://github.com/felipebrito02/trybe-exercicios1#se%C3%A7%C3%A3o-1-unix-shell-e-git)
+##### Seção 1: [Unix, Shell e Git] 
 - [ ] 1.1 - Introdução à Unix & Shell 
 - [ ] 1.1 - Unix & Shell  
 - [ ] 1.2 - Git - O que é e pra que serve
