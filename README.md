@@ -6,7 +6,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Fundamentos do Desenvolvimento Web 
 
-##### Seção 1: [Unix, Shell e Git](https://github.com/felipebrito02/trybe-exercicios1/tree/branch-exercicios/modulos/fundamentos/secao-01-unix-shell-e-git) ✅
+##### Seção 1: [Unix, Shell e Git](https://github.com/felipebrito02/trybe-exercicios1/tree/branch-exercicios/modulos/fundamentos/secao-01-unix-shell-e-git)
 - [X] 1.1 - Introdução à Unix & Shell 
 - [X] 1.1 - Unix & Shell  
 - [X] 1.2 - Git - O que é e pra que serve
@@ -62,7 +62,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 <!-- FALTANDO ATUALIZAR OS MÓDULOS ABAIXO -->
 
-## Desenvolvimento Front-end 
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: [Introdução à React]
 - [ ] 11.1 - Introdução - Front-end
@@ -209,4 +209,28 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 34.2 - Entrada e Saída de dados
 - [ ] 34.3 - Raspagem de Dados
 - [ ] 34.4 - Testes
-- [ ] 34.5 - Projeto - Tech news# Trybe - Exercícios
+- [ ] 34.5 - Projeto - Tech news
+
+##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
+- [ ] 35.1 - Introdução à programação orientada a objetos
+- [ ] 35.2 - Herança, Composição e Interfaces
+- [ ] 35.3 - Padrões de projeto
+- [ ] 35.4 - Projeto - Relatórios de Estoque
+
+##### Bloco 36: Algoritmos e Estrutura de Dados
+- [ ] 36.1 - Complexidade de Algoritmos
+- [ ] 36.2 - Recursividade e Estratégias para solução de problemas
+- [ ] 36.3 - Algoritmos de ordenação e busca
+- [ ] 36.4 - Projeto - Algoritmos
+
+##### Bloco 37: Estrutura de Dados: Hash e Set
+- [ ] 37.1 - Arrays
+- [ ] 37.2 - Hashmap e Dict
+- [ ] 37.3 - Set
+- [ ] 37.4 - Projeto - Restaurant Orders
+
+##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
+- [ ] 38.1 - Nó e Listas Encadeadas
+- [ ] 38.2 - Deque
+- [ ] 38.3 - Pilhas
+- [ ] 38.4 - Projeto - TING - Trybe Is Not Google
