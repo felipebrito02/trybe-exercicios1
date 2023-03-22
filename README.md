@@ -6,7 +6,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Fundamentos do Desenvolvimento Web 
 
-##### Seção 1: [Unix, Shell e Git](https://github.com/felipebrito02/trybe-exercicios1/tree/branch-exercicios/modulos/fundamentos/secao-01-unix-shell-e-git) ✅
+##### Seção 1: [Unix, Shell e Git](https://github.com/felipebrito02/trybe-exercicios1/tree/branch-exercicios/modulos/fundamentos/secao-01-unix-shell-e-git)  :heavy_check_mark:
 - [X] 1.1 - Introdução à Unix & Shell 
 - [X] 1.1 - Unix & Shell  
 - [X] 1.2 - Git - O que é e pra que serve
@@ -62,7 +62,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 <!-- FALTANDO ATUALIZAR OS MÓDULOS ABAIXO -->
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: [Introdução à React]
 - [ ] 11.1 - Introdução - Front-end
@@ -73,8 +73,8 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React]
 - [ ] 12.1 - Componentes com estado e eventos
-- [X] 12.2 - Formulários no React
-- [X] 12.3 - Projeto - Movie Cards Library Stateful
+- [ ] 12.2 - Formulários no React
+- [ ] 12.3 - Projeto - Movie Cards Library Stateful
 
 ##### Bloco 13: [Ciclo de Vida de Componentes e React Router]
 - [ ] 13.1 - Ciclo de vida de componentes
