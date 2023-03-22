@@ -62,7 +62,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 <!-- FALTANDO ATUALIZAR OS MÓDULOS ABAIXO -->
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end 
 
 ##### Bloco 11: [Introdução à React]
 - [ ] 11.1 - Introdução - Front-end
