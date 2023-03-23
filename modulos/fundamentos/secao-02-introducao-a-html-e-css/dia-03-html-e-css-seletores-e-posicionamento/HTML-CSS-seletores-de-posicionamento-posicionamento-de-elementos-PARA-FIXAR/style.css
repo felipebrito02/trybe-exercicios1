@@ -14,7 +14,7 @@
   .baloon {
     position: absolute;
     top: 270px;
-    left: 370px;
+    left: 770px;
    
   }
   
@@ -22,7 +22,7 @@
     font-size: 25px;
     position: absolute;
     top: 310px;
-    left: 390px;
+    left: 790px;
     z-index: 1;
   }
   
