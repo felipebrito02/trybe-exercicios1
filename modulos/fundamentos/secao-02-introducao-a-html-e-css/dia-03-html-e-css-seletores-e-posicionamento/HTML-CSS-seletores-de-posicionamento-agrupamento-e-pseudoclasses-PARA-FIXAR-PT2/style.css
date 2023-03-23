@@ -16,8 +16,8 @@ div:nth-of-type(2) > h3 {
 
 div:nth-of-type(3) > h3 {
     background-color: yellowgreen;
-    font-style: italic;
     color: royalblue;
+    height:50px ;
 }
 
 div:nth-of-type(4) > h3{
@@ -32,4 +32,8 @@ div:nth-of-type(5) > h3 {
     background-color: yellow;
     color: darkslategrey;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div:nth-child(odd) h3 {
+    font-style: italic;
 }
