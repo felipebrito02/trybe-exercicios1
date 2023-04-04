@@ -72,4 +72,4 @@ function verify(object, key, value) {
   return equal;
 }
 
-console.log(verify(lesson1, "Professor", "Maria Clara"));
+console.log(verify(lesson1, "Professor", "Maria Clara")); 
