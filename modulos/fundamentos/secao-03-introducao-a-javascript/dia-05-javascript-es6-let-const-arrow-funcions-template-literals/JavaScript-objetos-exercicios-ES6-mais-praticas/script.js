@@ -14,14 +14,14 @@ const area = calcularArea(raio);
 console.log(`A área do círculo é: ${area}`);
 
 const longestWord = (text) => {
-  const tamArray = text.split(" ");
-  let tamanho = 0;
-  let resultado = "";
+  const tamArray = text.split(" "); // separa palavra por palavra utilizando o split()
+  let tamanho = 0;  //contador de comprimento maximo das palavras
+  let resultado = ""; // guarda a palavra encontrada
 
-  for (const array of tamArray) {
-      if (array.length > tamanho) {
-          tamanho = array.length;
-          resultado = array;
+  for (const array of tamArray) {  // percorrer um array de palavras
+      if (array.length > tamanho) { // se o comprimento da palavra encontrada for maior que o comprimento maximo
+          tamanho = array.length;  // o comprimento maximo será a propria palavra
+          resultado = array; // eu reatribuo a ela o valor que sera retornado.
       }
   }
 
