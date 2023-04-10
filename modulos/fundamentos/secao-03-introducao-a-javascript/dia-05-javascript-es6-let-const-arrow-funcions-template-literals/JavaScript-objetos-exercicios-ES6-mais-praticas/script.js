@@ -2,7 +2,9 @@ const motor = (ligadoDesligado) => {
   ligadoDesligado = ligadoDesligado === "desligado" ? "ligado" : "desligado";
   console.log(`O motor está ${ligadoDesligado}`);
   return ligadoDesligado;
+  
 };
+
 
 const calcularArea = (raio) => {
   const area = Math.PI * raio * raio;
