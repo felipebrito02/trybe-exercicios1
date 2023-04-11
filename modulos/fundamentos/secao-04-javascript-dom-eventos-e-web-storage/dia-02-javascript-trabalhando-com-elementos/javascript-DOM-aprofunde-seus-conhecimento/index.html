@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício</title>
+    <style>
+      section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      const novaTag = document.createElement('h1');
+      novaTag.innerText = 'TrybeTrip - Agência de Viagens';
+      document.body.appendChild(novaTag);
+
+      const mainTag = document.createElement('main');
+      mainTag.className = 'main-content';
+      document.body.appendChild(mainTag);
+
+      const sectionTag = document.createElement('section');
+      sectionTag.className = 'center-content';
+      mainTag.appendChild(sectionTag);
+
+      const pTag = document.createElement('p');
+      pTag.innerText = 'A melhor agência de viagens do mundo!';
+      sectionTag.appendChild(pTag);
+
+      const sectionLeftTag = document.createElement('section');
+      sectionLeftTag.className = 'left-content';
+      mainTag.appendChild(sectionLeftTag);
+
+      const sectionRightTag = document.createElement('section');
+      sectionRightTag.className = 'rigth-content';
+      mainTag.appendChild(sectionRightTag);
+
+      const img = document.createElement('img');
+      img.src = 'https://picsum.photos/200'
+      img.className = 'small-image';
+      sectionLeftTag.appendChild(img);
+
+      const listaNo = document.createElement('ul')
+      const numeros =  ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez'];
+      
+      for (let i = 0; i < numeros.length; i += 1) {
+        const lista = document.createElement('li');
+        lista.innerText = numeros[i];
+        listaNo.appendChild(lista);
+      }
+      sectionRightTag.appendChild(listaNo);
+
+      for (let i = 0; i < 3; i += 1){
+        const h3 = document.createElement('h3');
+        h3.innerText = i;
+        mainTag.appendChild(h3);
+      }
+
+      const titulo = document.querySelector('h1')
+      titulo.className = 'title';
+
+      const descricao = document.getElementsByTagName('h3');
+      for (let i = 0; i < 3; i += 1) {
+        descricao[i].className = 'description';
+      }
+
+      const remover = document.getElementsByClassName('left-content')[0];
+      mainTag.removeChild(remover);
+
+      const centralizar = document.getElementsByClassName('right-content')[0];
+      centralizar.style.marginRight = 'auto';
+      
+      const cor = document.getElementsByClassName('center-content')[0]
+      cor.parentNode.style.backgroundColor = 'green'
+
+      ul.lastChild.remove();
+      ul.lastChild.remove();
+      
+    </script>
+  </body>
+</html>
