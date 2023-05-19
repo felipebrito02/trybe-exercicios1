@@ -9,3 +9,7 @@ const musicas = [
 const verificaID = musicas.find((musica) => musica.id === '31031685');
 
 console.log(verificaID);
+
+const testeID = musicas.find((titulo) => titulo.title === 'Chaconne, Partita No. 2 BWV 1004');
+
+console.log(testeID);
